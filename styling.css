@@ -1,0 +1,28 @@
+body{
+	background-image: url(CSS.PNG);
+	background-size: cover;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+H1{
+	border: 2PX solid;
+	border-color: blue;
+	border-width: 6px;
+	border-radius: 12px;
+	background-color: goldenrod;
+	text-align: center;
+	color: green;
+	font-style: italic;
+	border-style: dotted dashed double solid;
+	border-style: ridge;
+	padding-top: 8px;
+}
+ul li{
+	font-family: monospace;
+	font-family: cursive;
+	font-size: 40px;
+	color: rgba(225, 0, 0, 1.0);
+}
+h2{background-color: lightgoldenrodyellow;
+
+}
